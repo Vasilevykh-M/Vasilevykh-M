@@ -6,6 +6,8 @@
 <div dir="auto">
     <h2> Technologies </h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" title="C#" alt="C#" width="40" height="40" style="max-width: 100%;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="40" height="40" style="max-width: 100%;"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" style="max-width: 100%;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" title="CatBoost" alt="CatBoost" width="40" height="40" style="max-width: 100%;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" alt="sSlearnt" width="40" height="40" style="max-width: 100%;"/>   
