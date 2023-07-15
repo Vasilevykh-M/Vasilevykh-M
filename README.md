@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-    <h1> I`m Mikhail </h1>
+    <h1> Hello i am Mikhail </h1>
     <h3> I am a machine learning and computer vision engineer </h3>
 </div>
 <div class="tip" markdown="1">
